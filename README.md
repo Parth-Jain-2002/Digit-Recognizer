@@ -1,5 +1,5 @@
-# Digit-Recognizer
-Digit-Recognizer using Tensorflow and Neural Network
+# Handwritten-Digit-Recognizer
+Handwritten-Digit-Recognizer using Tensorflow and Neural Network
 
 Learned this through a youtube video on above topic
 
